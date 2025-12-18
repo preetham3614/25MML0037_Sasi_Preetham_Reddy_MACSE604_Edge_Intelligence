@@ -1,0 +1,9 @@
+6 Jars 
+============== 
+
+1. Data Jar 	==>  	All the Log Data that we have in our csv file which contains 7.2 lakh records with 3 features
+2. Task Jar 	==> 	Here our main task is to find the anamolies in the log data . 
+3. Model Jar 	==> 	Here in order to create the labels we will do clustering and create labels for each records then we use a classifier 			to classify the logs as anamolies or not 
+
+
+Rest of the jars are not yet mapped.
